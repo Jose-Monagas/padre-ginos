@@ -22,3 +22,5 @@ export const Route = createRootRoute({
         );
     },
 });
+
+//  Outlet component represents the area where different page components will be swapped out and rendered when navigating between routes
